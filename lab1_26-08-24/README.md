@@ -4,10 +4,13 @@
 
 ## Recursos disponibles
 
-A continuación se muestran una lista de recursos disponibles.
+A continuación se muestran una lista de apuntes de clase que le pueden servir para el desarrollo de esta practica:
+
+1. **Linux básico** [[link]](https://udea-so.github.io/udea-so/docs/laboratorio/tutoriales/herramientas/linux/)
+2. **Compilador gcc** [[link]](https://udea-so.github.io/udea-so/docs/laboratorio/tutoriales/herramientas/gcc/)
+3. **Introducción al lenguaje C** [[link]](https://udea-so.github.io/intro-c/intro.html)
 
 ## 1. Herramientas
-
 
 ### 1.1. Linux básico
 
@@ -179,6 +182,11 @@ El curso de Sistemas operativos dispone de unos apuntes de clase: **Introducció
 - [x] Memoria dinámica [[teoria]](https://udea-so.github.io/intro-c/content/CH_02-S05.html) [[ejemplos]](ejemplos_c/conceptos_c/reserva_dinamica_memoria/README.md)
 - [ ] Archivos [[teoria]](https://github.com/dannymrock/UdeA-SO-Lab/blob/master/lab0/lab0b/parte6/README.md) [[ejemplos]](ejemplos_c/conceptos_c/archivos/README.md)
 - [x] Argumentos por línea de comandos [[ejemplos]](ejemplos_c/conceptos_c/cmd_line_args/README.md)
+
+#### Reference sheet
+
+> 1. **C Reference Card (ANSI)** [[link](CRefCard.v2.2.pdf)]
+> 2. **The C Cheat Sheet** (Andrew Sterian) [[link]](C.CheatSheet.pdf)
 
 
 ## 4. Sobre la practica
