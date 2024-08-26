@@ -19,10 +19,10 @@
 ## Referencias teoricas
 
 A continuación se muestran algunos apuntes de clase que ilustran algunos conceptos teoricos necesarios para comprender la lista de ejemplos adjuntos:
-* **Apuntadores y arreglos** [[link]](https://github.com/dannymrock/UdeA-SO-Lab/blob/master/lab0/lab0b/parte2/ptr_arrays.ipynb)
-* **Apuntadores y arreglos multidimensionales** [[link]](https://github.com/dannymrock/UdeA-SO-Lab/blob/master/lab0/lab0b/parte3/matrices_ptr.ipynb)
-* **Estructuras en C** [[link]](https://github.com/dannymrock/UdeA-SO-Lab/blob/master/lab0/lab0b/parte4/estructuras.ipynb)
-* **Memoria dinámica en C** [[link]](https://github.com/dannymrock/UdeA-SO-Lab/blob/master/lab0/lab0b/parte5/memoria_dinamica.ipynb)
+* **Apuntadores y arreglos** [[link]](https://udea-so.github.io/intro-c/content/CH_02-S02.html)
+* **Apuntadores y arreglos multidimensionales** [[link]](https://udea-so.github.io/intro-c/content/CH_02-S03.html)
+* **Estructuras en C** [[link]](https://udea-so.github.io/intro-c/content/CH_02-S04.html)
+* **Memoria dinámica en C** [[link]](https://udea-so.github.io/intro-c/content/CH_02-S05.html)
 * **Dynamic Memory Allocation** [[link]](https://diveintosystems.org/book/C2-C_depth/dynamic_memory.html)
 
 ## Corriendo los ejemplos

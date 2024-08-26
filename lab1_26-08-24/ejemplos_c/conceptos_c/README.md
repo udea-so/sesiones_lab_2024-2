@@ -5,11 +5,11 @@
 - [x] Arreglos y matrices [[link]](arreglos_matrices/)
 - [x] Estructuras [[link]](estructuras/)
 - [x] Apuntadores [[link]](punteros/)
-- [x] Linea de comandos (En construcción...)
+- [x] Linea de comandos [[link]](cmd_line_args/)
 - [x] Utilidad Make [[link]](multi-file_project/)
-- [] Memoria dinamica (En construcción...)
-- [] Listas enlazadas (En construcción...)
-- [] Manejo de archivos (En construcción...)
+- [x] Memoria dinamica [[link]](reserva_dinamica_memoria/)
+- [ ] Listas enlazadas (En construcción...)
+- [x] Manejo de archivos [[link]](archivos)
 
 
 ## Referencias

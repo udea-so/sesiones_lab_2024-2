@@ -15,7 +15,7 @@
 ## Referencias teoricas
 
 A continuación se muestran algunos apuntes de clase que ilustran algunos conceptos teoricos necesarios para comprender la lista de ejemplos adjuntos:
-* **Estructuras** [[link]](https://github.com/dannymrock/UdeA-SO-Lab/blob/master/lab0/lab0b/parte4/estructuras.ipynb)
+* **Estructuras** [[link]](https://udea-so.github.io/intro-c/content/CH_02-S04.html)
 * **Structs** [[link]](https://diveintosystems.org/book/C2-C_depth/structs.html)
 
 ## Corriendo los ejemplos
