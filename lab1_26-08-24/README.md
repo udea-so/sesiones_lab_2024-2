@@ -95,7 +95,8 @@ Luego, para correr el ejecutable el comando será:
 
 #### Material de apoyo
 
-> **An Introduction to GCC** (MIT) [[link]](gccintro.pdf)
+> 1. **Laboratory: Tutorial** [[link]](ejemplos_c/lab_tutorial/)
+> 2. **An Introduction to GCC** (MIT) [[link]](gccintro.pdf)
 
 #### Reference sheet
 
