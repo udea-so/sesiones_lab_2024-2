@@ -102,6 +102,8 @@ Luego, para correr el ejecutable el comando será:
 
 > **ECE 2400 Linux, Git, C/C++ Cheat Sheet** [[link]](ece2400-cheat-sheet.pdf)
 
+## 3. Uso básico del `git`
+
 La mejor forma de empezar a conocer el `git` es a traves del **git cheat sheet** de [Julia Evans](https://x.com/b0rk)
 
 ![git](git_julia_evans.png)
@@ -173,7 +175,7 @@ A continuación, se comparten algunos resúmenes que le pueden servir, el cachar
 > 3. **Git Cheat Sheet** (GitLab) [[link]](https://about.gitlab.com/images/press/git-cheat-sheet.pdf)
 > 4. **Git Cheat Sheet** (github) [[español]](https://training.github.com/downloads/es_ES/github-git-cheat-sheet.pdf) [[ingles]](https://education.github.com/git-cheat-sheet-education.pdf)
 
-## 3. Introducción al lenguaje `gcc`
+## 4. Introducción al lenguaje C
 
 El curso de Sistemas operativos dispone de unos apuntes de clase: **Introducción al lenguaje C** [[link]](https://udea-so.github.io/intro-c/intro.html) en el cual se encuentran la mayoria de los conceptos de este lenguaje necesarios para trabajar a lo largo de los laboratorios. A continuación se listan las diferentes secciones:
 - [x] Introducción al lenguaje C [[teoria]](https://udea-so.github.io/intro-c/content/CH_02-S01.html) 
@@ -190,13 +192,13 @@ El curso de Sistemas operativos dispone de unos apuntes de clase: **Introducció
 > 2. **The C Cheat Sheet** (Andrew Sterian) [[link]](C.CheatSheet.pdf)
 
 
-## 4. Sobre la practica
+## 5. Sobre la practica
 
-### 4.1. Enunciado
+### 5.1. Enunciado
 
 El enunciado y los recursos necesarios para el desarrollo de la **practica 1** del laboratorio se encuentra en el siguiente [link](https://github.com/udea-so/SO-Lab1-20241).
 
-### 4.2. Sobre los test
+### 5.2. Sobre los test
 
 En el directorio [raíz](https://github.com/udea-so/SO-Lab1-20241/tree/main) del repositorio repositorio de la practica se encuentra el script [test-reverse.sh](https://github.com/udea-so/SO-Lab1-20241/blob/main/test-reverse.sh) que realiza los tests automáticos de la práctica. La práctica estará completa cuando todos los test hayan sido exitosos (Para mas información sobre estos consulte el siguiente [link](https://github.com/udea-so/SO-Lab1-20241/tree/main/tester)).
 
@@ -247,7 +249,7 @@ La siguientes figuras muestran ambos casos para el ***test 2***:
 ![test7](test7.png)
 
 
-## Referencias
+## 6. Referencias
 
 * https://www.mit.edu/~amidi/teaching/data-science-tools/tutorial/working-with-git/
 * https://bootlin.com/blog/command-line/
