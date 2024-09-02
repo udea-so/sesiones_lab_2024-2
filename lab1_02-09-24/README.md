@@ -2,7 +2,6 @@
 
 **Fecha**: 02/09/2024
 
-
 ## 1. Recursos disponibles
 
 A continuación se muestran una lista de apuntes de clase que le pueden servir para el desarrollo de esta practica:

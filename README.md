@@ -1,5 +1,7 @@
 # Laboratorio de Sistemas Operativos
 
+Repositorio con material de las sesiones de laboratorio
+
 ## Sesiones de laboratorio
 
 ### Evaluación
@@ -18,7 +20,7 @@
 |**0**|**Presentación del laboratorio**|**12/08/2024**|**12/08/2024**|[link](lab0_12-08-24/)|
 |**1**|**Practica 1 - Introducción al lenguaje C**|**~~19/08/2024~~**|**~~19/08/2024~~**|Festivo|
 |||26/08/2024|26/08/2024|[link](lab1_26-08-24/)|
-|||02/09/2024|02/09/2024||
+|||02/09/2024|02/09/2024|[link](lab1_02-09-24/)|
 |**2**|**Practica 2 - Procesos**|**09/09/2024**|**09/09/2024**||
 |||16/09/2024|16/09/2024||
 |||23/09/2024|23/09/2024||
@@ -35,15 +37,3 @@
 <br/>
 
 > **Nota**: Las fechas que se encuentran tachadas es por que son dias festivos
-
-
-
-
-
-
-
-
-
-
-
-Repositorio con material de las sesiones de laboratorio
