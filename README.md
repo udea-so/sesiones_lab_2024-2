@@ -37,3 +37,9 @@ Repositorio con material de las sesiones de laboratorio
 <br/>
 
 > **Nota**: Las fechas que se encuentran tachadas es por que son dias festivos
+
+### Ejemplos por encuentro
+
+Acceda al siguiente [link](ejemplos_sesion/) para ver los ejemplos por encuentro sincronico.
+
+
