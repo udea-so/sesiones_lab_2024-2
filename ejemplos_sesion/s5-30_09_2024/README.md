@@ -1,5 +1,8 @@
 # Ejemplos
 
+## Manuscrito
+
+**Manuscrito**: [sesion-05_23-09-2024.pdf](sesion-05_23-09-2024.pdf)
 
 ## Trabajo en la sesión
 
